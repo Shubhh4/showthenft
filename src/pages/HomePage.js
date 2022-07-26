@@ -55,7 +55,7 @@ getdata();
       <div class="absolute  -inset-0.5 bg-gradient-to-r from-indigo-600 to-purple-300 mt-[20%] rounded-lg blur opacity-75 group-hover:opacity-100 transition duration-2000 group-hover:duration-300 animate-tilt"></div>
      
      
-      <img src={`https://ipfs.io/ipfs/${metadata}/image`} alt="" className=' relative mt-[20%]  bg-black rounded-lg leading-none flex items-center '/>
+      <img src="https://ipfs.io/ipfs/QmSwqQzEDRVUnfjMdYhxGJSy98SiA1jY95FsfsREL4RH8q" alt="" className=' relative mt-[20%]  bg-black rounded-lg leading-none flex items-center '/>
     </div>
   </div>
 </div>
