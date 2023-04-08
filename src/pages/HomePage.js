@@ -73,7 +73,7 @@ getdata();
       <div class="absolute -inset-0.5 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt"> </div>
       <button class="   relative text-white mt-2 mb-2 px-7 py-3 bg-indigo-300 rounded-full leading-none flex items-center  inline-flex items-center">
   <img src='https://svgshare.com/i/jBg.svg' alt='' className='mr-3'/>
-  <a href='https://opensea.io/collection/shardsofeth'> 
+  <a href='https://opensea.io/collection/gemesis'> 
   <span className='mr-2  '> <strong> About </strong> </span> </a>
 </button>
     </div>
@@ -86,7 +86,7 @@ getdata();
       <div class="absolute -inset-0.5 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt"></div>
       <button class="   relative text-white mt-2 mb-2 px-7 py-3 bg-indigo-300 rounded-full leading-none flex items-center  inline-flex items-center">
   <img src='https://svgshare.com/i/jB7.svg' alt='' className='mr-3'/>
-  <a href='https://opensea.io/collection/shardsofeth'> 
+  <a href='https://opensea.io/collection/gemesis'> 
   <span className='mr-2  '> <strong> View On Opensea </strong> </span> </a>
 </button>
     </div>
@@ -109,7 +109,7 @@ getdata();
         </div>
         
         <div className='items-center content-center mt-6 '>
-        <a href='https://opensea.io/collection/shardsofeth'> 
+        <a href='https://opensea.io/collection/gemesis'> 
 <h1 className='font-bold  '> View on IPFS / ARWEAVE </h1>    </a>
 
 <h3 className=' font-caustic hidden md:block'> See the unlockables for this NFT on the link provided </h3>
