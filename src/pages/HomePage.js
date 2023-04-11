@@ -151,10 +151,6 @@ getdata();
         </div>
        </div>
       
-       
-    
-
-
 
 
      </div>
