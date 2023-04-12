@@ -24,7 +24,6 @@ setDescription(description);
         console.log(error)
     }
 
-
 };
 
 useEffect(() => {   
